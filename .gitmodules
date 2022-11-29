@@ -1,0 +1,6 @@
+[submodule "2022-database-front"]
+	path = 2022-database-front
+	url = https://github.com/choheejin/2022-database-front.git
+[submodule "2022-database-back"]
+	path = 2022-database-back
+	url = https://github.com/choheejin/2022-database-back.git
