@@ -1,5 +1,8 @@
 # 2022-database
 
+1. 프론트(react) : gh-pages 를 통해 배포 완료
+2. 백엔드(php) & MySQL : groom ide 컨테이너를 통해 배포 완료
+
 # Getting Started
 
 ## Installation
